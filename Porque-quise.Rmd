@@ -1,0 +1,12 @@
+--- 
+title: "Porque quise"
+author: "Fumiko Kaneko"
+date: "01/01/2020"
+output: bookdown::gitbook
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Kaneko Fumiko, sobre el nihilismo y por qué quiso matar al Emperador de Japón"
+---
